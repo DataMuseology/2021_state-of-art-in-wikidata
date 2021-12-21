@@ -1,0 +1,1082 @@
+{
+  "entities": {
+    "Q23946": {
+      "pageid": 27351,
+      "ns": 0,
+      "title": "Q23946",
+      "lastrevid": 1495963712,
+      "modified": "2021-09-11T10:42:14Z",
+      "type": "item",
+      "id": "Q23946",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "La Visitation"
+        },
+        "en": {
+          "language": "en",
+          "value": "Visitation"
+        },
+        "it": {
+          "language": "it",
+          "value": "Visitazione"
+        },
+        "es": {
+          "language": "es",
+          "value": "La Visitaci\u00f3n"
+        },
+        "de": {
+          "language": "de",
+          "value": "Heimsuchung"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u8056\u6bcd\u306e\u30a8\u30ea\u30b6\u30d9\u30c4\u8a2a\u554f"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Visita\u00e7\u00e3o"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Visitation"
+        },
+        "arz": {
+          "language": "arz",
+          "value": "\u0632\u064a\u0627\u0631\u0647"
+        }
+      },
+      "descriptions": {
+        "fr": {
+          "language": "fr",
+          "value": "peinture de Domenico Ghirlandaio"
+        },
+        "en": {
+          "language": "en",
+          "value": "painting by the Italian Renaissance painter Domenico Ghirlandaio"
+        },
+        "it": {
+          "language": "it",
+          "value": "dipinto del Ghirlandaio"
+        },
+        "es": {
+          "language": "es",
+          "value": "pintura de  Domenico Ghirlandaio"
+        },
+        "de": {
+          "language": "de",
+          "value": "Gem\u00e4lde von Domenico Ghirlandaio"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "schilderij van Domenico Ghirlandaio"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30c9\u30e1\u30cb\u30b3\u30fb\u30ae\u30eb\u30e9\u30f3\u30c0\u30a4\u30aa\u306b\u3088\u308b\u7d75\u753b"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "pintura de Domenico Ghirlandaio"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "m\u00e5lning av Domenico Ghirlandaio"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Domenico Ghirlandaio festm\u00e9nye"
+        },
+        "da": {
+          "language": "da",
+          "value": "maleri af Domenico Ghirlandaio"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "quadre de Domenico Ghirlandaio"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "pentra\u0135o de Domenico Ghirlandaio"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "pintura de Domenico Ghirlandaio"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "pintura de Domenico Ghirlandaio"
+        },
+        "io": {
+          "language": "io",
+          "value": "pikturo da Domenico Ghirlandaio"
+        },
+        "oc": {
+          "language": "oc",
+          "value": "pintura de Domenico Ghirlandaio"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "maleri av Domenico Ghirlandaio"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "m\u00e5leri av Domenico Ghirlandaio"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "painting by Domenico Ghirlandaio"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "pictur\u0103 de Domenico Ghirlandaio"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "obraz Domenico Ghirlandaio"
+        },
+        "pap": {
+          "language": "pap",
+          "value": "pintura di Domenico Ghirlandaio"
+        },
+        "id": {
+          "language": "id",
+          "value": "lukisan oleh Domenico Ghirlandaio"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P195": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P195",
+              "hash": "cf5993de5bca62759f45fec6b851138536e3ed4a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3044768,
+                  "id": "Q3044768"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q23946$114CECF2-FC0A-4344-B817-ABA5F8698066",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P347": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P347",
+              "hash": "84475e5a03cdc52846f14a2cc1d2c54c9e658c28",
+              "datavalue": {
+                "value": "000PE025510",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q23946$77F66754-4E16-4E6C-88DA-C7FEA509D575",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "bcbf1eb4f70ef56e47db3fd25377d1c1ce540903",
+              "datavalue": {
+                "value": "Domenico ghirlandaio, visitazione, 1491, da cappella di lorenzo tornabuoni in s.m. maddalena de' pazzi a fi, 02.JPG",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q23946$A5BF6474-57F6-40EC-A4BE-C37AA08F2125",
+            "rank": "normal"
+          }
+        ],
+        "P170": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P170",
+              "hash": "05b89778ff290795fec64740be0de8d709626560",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 191423,
+                  "id": "Q191423"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$2eb61d30-436b-ab60-676c-999cc93b298e",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "dfce24c3a9083b334aa9fc35a67b162acd19286f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3305213,
+                  "id": "Q3305213"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$6B0436BF-8DCB-4A6D-B26D-1AA5CED47EDC",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "33e42a6bdc861a75f5039dfd9bf936d62c434177",
+              "datavalue": {
+                "value": {
+                  "time": "+1491-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P31": [
+                {
+                  "snaktype": "value",
+                  "property": "P31",
+                  "hash": "d5ac6d02e7a8948b72184d9e39cf10acbc5e61ed",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 26961029,
+                      "id": "Q26961029"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P31"
+            ],
+            "id": "Q23946$B67B7BF9-4FE3-413E-890F-0CA5F9643C26",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8f08ac3e0839bdbc4c6eb8d671e772deb12ba423",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "250b03083f7971a02473af3e43115ef521b1440d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 465,
+                          "id": "Q465"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P136": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "d960cb76ecb248024b7446bd6fcca59788366315",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2864737,
+                  "id": "Q2864737"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$B77171FF-939C-4ADD-BC54-3013B88469AA",
+            "rank": "normal"
+          }
+        ],
+        "P180": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P180",
+              "hash": "5fe2ec5178f61462e675b31cef8e201c8eb9658a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 345,
+                  "id": "Q345"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$6D130561-BFC7-4123-911F-5DCEA8057E64",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P180",
+              "hash": "b1870ce7f5f2144fdeefaa714b7974079a5af123",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 467,
+                  "id": "Q467"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$07F4D21F-6ED4-4FD0-A1F4-1A551683196E",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P180",
+              "hash": "1e0163b5f96a96506b3adfb62b9af0f7ae764fd1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 691810,
+                  "id": "Q691810"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$beb3a235-4729-d48a-9536-72b73c85fb14",
+            "rank": "normal"
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "7399e3a9c179822eff4a7b71d3e3c8378d94a64d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12269950,
+                  "id": "Q12269950"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$DB8B8AAF-A324-406D-BE81-550271A1DD98",
+            "rank": "normal"
+          }
+        ],
+        "P217": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P217",
+              "hash": "119049a89a4ef8366d5f2d656fd01eb4d95df95c",
+              "datavalue": {
+                "value": "INV 297",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P195": [
+                {
+                  "snaktype": "value",
+                  "property": "P195",
+                  "hash": "cf5993de5bca62759f45fec6b851138536e3ed4a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3044768,
+                      "id": "Q3044768"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P195"
+            ],
+            "id": "Q23946$291EA9AB-F9D7-4EFC-A324-349057006DE4",
+            "rank": "normal"
+          }
+        ],
+        "P1212": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1212",
+              "hash": "5ca60d9317bd9862a9b914f6e9877dd54b92aaf0",
+              "datavalue": {
+                "value": "13692",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23946$6F982B36-A315-47FA-9A00-2866BC11EDC9",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "50433f6a7d4c14450d94b6c83db426b758ca0358",
+              "datavalue": {
+                "value": "Visitation by Domenico Ghirlandaio",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q23946$61F45E89-DCBF-4AC7-8E9D-7037A58DE441",
+            "rank": "normal"
+          }
+        ],
+        "P186": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P186",
+              "hash": "649ee9fb1557b8774d0c4453d4af20ac25fd13be",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 175166,
+                  "id": "Q175166"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$F5721B1A-7830-4AC7-995C-39A02030A557",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P186",
+              "hash": "32442acff3bd145a61bbd0b67fc5712a6a0bb800",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 106857709,
+                  "id": "Q106857709"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P518": [
+                {
+                  "snaktype": "value",
+                  "property": "P518",
+                  "hash": "741c2f726bfd42522b6ee31f850ec9ff7d4b7c41",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 861259,
+                      "id": "Q861259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P518"
+            ],
+            "id": "Q23946$FAA14C34-3016-4559-9DF1-F59727B692DA",
+            "rank": "normal"
+          }
+        ],
+        "P135": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P135",
+              "hash": "54c616d8c244a5007740bd9e760bd0fd83883398",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1404472,
+                  "id": "Q1404472"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$BE5A7B29-F5F3-4AE6-8CC4-2ECB141945ED",
+            "rank": "normal"
+          }
+        ],
+        "P2048": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2048",
+              "hash": "d0fc6c898d8564b329518dbfbe8d30ec7fe95516",
+              "datavalue": {
+                "value": {
+                  "amount": "+172",
+                  "unit": "http://www.wikidata.org/entity/Q174728",
+                  "upperBound": "+173",
+                  "lowerBound": "+171"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q23946$6F94BBFA-EFF0-4579-9153-526C6552AF40",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "04f24b5cac3d8021983b72593b339cf9cf6923a6",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c5dd7a04b7d5c99bd50b4281f5070bbef079a9fe",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 809825,
+                          "id": "Q809825"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2049": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2049",
+              "hash": "34efab7cefef3ee0e078b7fa94659fc942cba9c7",
+              "datavalue": {
+                "value": {
+                  "amount": "+167",
+                  "unit": "http://www.wikidata.org/entity/Q174728"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q23946$9DEA1B44-25FC-4EA2-B374-4F6429A5A19E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "04f24b5cac3d8021983b72593b339cf9cf6923a6",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c5dd7a04b7d5c99bd50b4281f5070bbef079a9fe",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 809825,
+                          "id": "Q809825"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1257": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1257",
+              "hash": "b8ab07edd684846775531e6f2b8eced7ea63c771",
+              "datavalue": {
+                "value": "73A624",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q23946$379519CF-D861-47C1-BA96-81DAC272965B",
+            "rank": "normal"
+          }
+        ],
+        "P2581": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2581",
+              "hash": "cee3d20548345546bf249e21992b97346d2843b2",
+              "datavalue": {
+                "value": "02531295n",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23946$EFAAE435-87A1-4AD4-AE89-4E60AEFEA38A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 4837690,
+                          "id": "Q4837690"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2344": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2344",
+              "hash": "ee5566dd7299609e15ae616b81cc92ff73a72444",
+              "datavalue": {
+                "value": "23254",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23946$3B95BB4F-0FEF-49F8-8418-677ED1F4E9F1",
+            "rank": "normal"
+          }
+        ],
+        "P140": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P140",
+              "hash": "a5edfd29f5e8faff8d547ced0ece9e8f6773cd20",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5043,
+                  "id": "Q5043"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$E90DE52F-A9D3-43D9-8380-BA3AFF1EF428",
+            "rank": "normal"
+          }
+        ],
+        "P6216": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6216",
+              "hash": "f69dc45ce9c48664155022498b34100d801bd549",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19652,
+                  "id": "Q19652"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1001": [
+                {
+                  "snaktype": "value",
+                  "property": "P1001",
+                  "hash": "91dce20cb7cf8d03dc976a70e56b19939881d751",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 60332278,
+                      "id": "Q60332278"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P459": [
+                {
+                  "snaktype": "value",
+                  "property": "P459",
+                  "hash": "8f1a08d7359ea45500b600d7ad0f13a7f032145e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 29940705,
+                      "id": "Q29940705"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1001",
+              "P459"
+            ],
+            "id": "Q23946$152FE80F-6992-4C3A-8DDF-9F53A9BC1CC2",
+            "rank": "normal"
+          }
+        ],
+        "P921": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P921",
+              "hash": "08a7c8c7ca3b8eab5724293bd5736da825b232b0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 691810,
+                  "id": "Q691810"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q23946$0B435DF5-303E-4A88-BDA3-AA7828B1C42B",
+            "rank": "normal"
+          }
+        ],
+        "P973": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "900eafc60900e1b3e45a58af7b7c4e14301e9989",
+              "datavalue": {
+                "value": "https://www.wga.hu/html/g/ghirland/domenico/7panel/09visita.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q23946$1500BF5E-B0F2-4BE9-8306-65E73B168CA5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3ffcee4cfff4ac83fd39337d0150ee9e59331720",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5d3b16d350189b0a81818758208505444c86c127",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 565,
+                          "id": "Q565"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "2934796778fa3d5ee75be6c5e17b4a00ec621252",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-10-26T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "ec577ee0104d1fa24479edd0f86e6e0b09a0ecfb",
+                      "datavalue": {
+                        "value": "https://commons.wikimedia.org/wiki/File:Domenico_ghirlandaio,_visitazione,_louvre_01.jpg",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "3eb862a53b6950ad59ceeba2892867fc86545d69",
+              "datavalue": {
+                "value": "/m/0gtvwng",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23946$FEC7196C-E732-4136-B679-2738AE0875F5",
+            "rank": "normal"
+          }
+        ],
+        "P9394": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9394",
+              "hash": "990a9f5da01a7312126cd2cb6df0ba5060c57fc4",
+              "datavalue": {
+                "value": "010064450",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q23946$51F35A00-4BEA-41D5-89B3-DD76E67947E9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f1a95a3211807c547d6179e76d7b9a6d3d59f83c",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6f8f333cebfac92bb111b2fdd9fcbf7697285918",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-04-01T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "arzwiki": {
+          "site": "arzwiki",
+          "title": "\u0632\u064a\u0627\u0631\u0647",
+          "badges": [],
+          "url": "https://arz.wikipedia.org/wiki/%D8%B2%D9%8A%D8%A7%D8%B1%D9%87"
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Visitation by Domenico Ghirlandaio",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Category:Visitation_by_Domenico_Ghirlandaio"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Visitation (Ghirlandaio)",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Visitation_(Ghirlandaio)"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "La Visitaci\u00f3n (Ghirlandaio)",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/La_Visitaci%C3%B3n_(Ghirlandaio)"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Visitazione (Ghirlandaio)",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Visitazione_(Ghirlandaio)"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u8056\u6bcd\u306e\u30a8\u30ea\u30b6\u30d9\u30c8\u8a2a\u554f (\u30ae\u30eb\u30e9\u30f3\u30c0\u30a4\u30aa)",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E8%81%96%E6%AF%8D%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%88%E8%A8%AA%E5%95%8F_(%E3%82%AE%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%80%E3%82%A4%E3%82%AA)"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Visita\u00e7\u00e3o (Ghirlandaio)",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Visita%C3%A7%C3%A3o_(Ghirlandaio)"
+        }
+      }
+    }
+  }
+}
